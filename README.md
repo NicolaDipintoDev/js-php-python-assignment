@@ -1,3 +1,8 @@
+# experience: 7 months
+# Please note:  
+first time with python
+
+
 **-Submission rules are specified for each task.**  
 **-Each task file should properly run and output the correct results.**  
 **-code style, code tidiness, comments are a plus.**  
