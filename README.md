@@ -1,3 +1,8 @@
+# experience: 7 months
+# Please note:  
+first time with python
+
+# assignment:  
 **-Submission rules are specified for each task.**  
 **-Each task file should properly run and output the correct results.**  
 **-code style, code tidiness, comments are a plus.**  
@@ -42,7 +47,7 @@ Complete the source file named `change_directory.php`.
 
 
 
-#TASK 3. 
+# TASK 3. 
 
 **Language:** Python. 
 
