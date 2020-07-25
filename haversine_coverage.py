@@ -1,7 +1,7 @@
 """
 Please note: 
     first time I use python in my life,
-    i have to another 4 projects this weekend so I don't have time to learn the best practise
+    I have to do another 4 projects this weekend so I don't have time to learn the best practise
     to write a good clean code.
     I try to write a readable code. 
 
