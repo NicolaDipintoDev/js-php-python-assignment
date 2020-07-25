@@ -22,7 +22,7 @@ Complete the source code file named `reverse_binary.js`.
 
 **Description:**   
 Write a function that provides change directory (cd) function for an abstract file system.  
-**Notes:**. 
+**Notes:**  
 root path is '/'.  
 path separator is '/'.  
 parent directory is addressable as '..'.  
